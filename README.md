@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Pranav Singh Solanki
-- 👀 I’m interested in App devlopment 
-- 🌱 I’m currently learning India
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+-👋 Hey! I am Pranav Singh Solanki.
+
+- 🎓 Pursuing Bachelor of Technology- IT'25.
+
+- 🏠 Uttar Pradesh, India.
+
+- 💻 I see myself as a Software Developer and Open Source Contributer in future.
+
+- 💪🏻 Strength: Coding/Leadership/Writing
+
+- 📚 Skills: Java (ongoing) | C|HTML| CSS (basics)| JavaScript (basics) | Python(basics)
+
+- ⚙️ Tools/Sites/Environment: WordPress, Canva, Microsoft 365, 
+
+- 📫 How to reach me ... pranavsolanki200@gmail.com // bit21it69@bit.ac.in
+
 
 <!---
 Pranavsolanki01/Pranavsolanki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
