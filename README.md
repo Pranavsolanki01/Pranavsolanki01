@@ -1,4 +1,4 @@
--👋 Hey! I am Pranav Singh Solanki.
+- 👋 Hey! I am Pranav Singh Solanki.
 
 - 🎓 Pursuing Bachelor of Technology- IT'25.
 
