@@ -15,7 +15,7 @@
 - ⚙️ Tools/Sites/Environment: WordPress, Canva, Microsoft 365, 
 
 - 📫 How to reach me ... pranavsolanki200@gmail.com // bit21it69@bit.ac.in
-
+[![An image of @pranavsolanki01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavsolanki01)](https://holopin.io/@pranavsolanki01)
 
 <!---
 Pranavsolanki01/Pranavsolanki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
